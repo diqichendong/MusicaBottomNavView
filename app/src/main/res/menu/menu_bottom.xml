@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_bottom_explorar"
+        android:title="Explorar"
+        android:icon="@drawable/explorar" />
+    <item
+        android:id="@+id/menu_bottom_generos"
+        android:title="Géneros"
+        android:icon="@drawable/generos" />
+    <item
+        android:id="@+id/menu_bottom_favoritos"
+        android:title="Favoritos"
+        android:icon="@drawable/favoritos" />
+</menu>
